@@ -1,0 +1,84 @@
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.c1{
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.cc a{
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.c2{
+    margin-top: 60px;
+}
+.c3{
+color: lightseagreen;  
+  margin-top: 15px;
+}
+.c4{
+    margin-left: 100px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.c5{
+    margin-top: 50px;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+}
+#b1{
+    color: white;
+background-color: aquamarine;
+}
+#b2{
+    color: white;
+    background-color: blue;
+}
+#b3{
+    color: white;
+    background-color: black;
+}
+.h01{
+    margin-top: 50px;
+    
+color: lightseagreen;  
+ 
+}
+.sec1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+   }
+   .bc{
+    width: 400px;
+    height: 400px;
+   }
+   .b1{
+    background-color: blue;
+    color: aliceblue;
+   }
+   .bt2{
+background-color: blue;
+color: aliceblue;
+margin-top: 20px;
+   }
+   .fi{
+    margin-top: 50px;
+    size: 20%;
+   }
+   .p0{
+    margin-top: 70px;
+    margin-bottom: 70px;
+   }
